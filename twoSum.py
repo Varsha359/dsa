@@ -1,7 +1,3 @@
-https://www.codingninjas.com/codestudio/problems/two-sum_839653?topList=mohammad-fraz-beginner-dsa-sheet-problems
-
-Code:
-
 def twoSum(arr, target, n):
     # Write your code here.
     hashmap = {}
