@@ -40,3 +40,4 @@ def plusMinus(arr):
     print(round(neg/length, 6))
     print(round(zero/length, 6))
     
+ 
